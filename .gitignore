@@ -1,0 +1,17 @@
+# Python önbellek dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+
+# Sanal ortam
+.venv/
+env/
+
+# IDE dosyaları (VS Code vb.)
+.vscode/
+.idea/
+src/
+
+# İşletim sistemi çöpleri
+.DS_Store
