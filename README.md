@@ -42,5 +42,5 @@ Thank you for taking the time to review the code! This project was developed as 
 **License:** This project is fully open-source and protected under the **GPL-3.0** license. You are completely free to fork, study, and contribute.
 
 **Contact:**
-* **LinkedIn:** [Mümin Kayaaslan] (https://www.linkedin.com/in/m%C3%BCmin-kayaaslan-173923256/)
+* **LinkedIn:** [Mümin Kayaaslan](https://www.linkedin.com/in/m%C3%BCmin-kayaaslan-173923256/)
 * **Instagram:** [CoderMuminn](https://www.instagram.com/codermuminn/?igsh=MXZpNWQ5bDg2ZHExag%3D%3D#)
